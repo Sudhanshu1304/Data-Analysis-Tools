@@ -18,7 +18,7 @@ While doing this Project I came Across this Plot
 ***
 
  
- ![](Image/Servival%rate.png)
+ ![](Image/Servival%20rate.png)
  
  ***
  <br>
